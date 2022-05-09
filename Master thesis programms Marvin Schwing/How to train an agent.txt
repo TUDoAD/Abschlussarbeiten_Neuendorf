@@ -1,0 +1,8 @@
+open one of the programms folders with ether the new or old environemnt
+go to the agent folder
+pick an agent
+open the .py file with python. preferable spyder 
+run the program
+install necessary imports
+change necessary paths 
+should be working fine
